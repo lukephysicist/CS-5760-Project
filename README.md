@@ -20,3 +20,8 @@ A short statistics report on the loaded corpus can be found in the 1_Corpus_Cons
 
 The script 2.1_text_processing.py contains the regex processing for the documents and prints the frequency
 of each pattern as well as some examples.
+
+## 2.2 Normalization
+
+The notebook 2.2_normalization performs tokenization, lowering, stopword removal, and creates both a stemmed
+and normalized corpus which are written 
