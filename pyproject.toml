@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=7.1.0",
     "langchain>=1.2.7",
     "langchain-community>=0.4.1",
+    "nltk>=3.9.4",
     "pandas>=3.0.0",
     "pypdf>=6.6.2",
 ]

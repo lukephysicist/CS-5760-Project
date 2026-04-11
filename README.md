@@ -1,7 +1,8 @@
 # CS-5760 NLP PROJECT
+Lucas Wengler 700726823
 
 ## Dependencies
-All code can be exectued by syncing dependencies with uv. Run:
+All code can be exectued by syncing dependencies with uv. Install uv and Run:
 
 "uv sync"
 
@@ -10,7 +11,7 @@ in the root directory
 
 ## 1 Corpus Collection
 
-The raw corpus consisting of mostly collegiate student handbooks can be found in at data/raw
+The raw corpus consisting of mostly collegiate student handbooks can be found in at data/raw.
 Corpus metadata can be found at data/corpus_metadata.csv
 
 A short statistics report on the loaded corpus can be found in the 1_Corpus_Construction.ipynb notebook
