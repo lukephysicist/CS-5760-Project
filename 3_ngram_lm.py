@@ -152,6 +152,7 @@ def sample(corpus, model="unigram", length=20):
     return sentence
 
 
+# Grabs a random portion of text to make the testing set
 def get_train_test_split(corpus, test_size = 100):
     corpus_len = len(corpus)
     random_idx = random.randint(0, corpus_len - test_size)

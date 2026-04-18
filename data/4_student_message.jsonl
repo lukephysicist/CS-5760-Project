@@ -1,0 +1,42 @@
+{"msg_id": 1, "label": "attendence", "text": "Hello Professor I will be unable to attend class tomorrow due to a personal family emergency that requires me to travel out of town immediately"}
+{"msg_id": 2, "label": "attendence", "text": "Dear Instructor please excuse my absence from today's lecture as I have come down with a sudden illness and need to visit the health clinic"}
+{"msg_id": 3, "label": "attendence", "text": "Hi there I am writing to let you know that I have a scheduled medical appointment this Friday morning and will be missing our weekly seminar"}
+{"msg_id": 4, "label": "attendence", "text": "Good morning I will be absent from class next Tuesday because I have been selected to attend a professional development conference for my major"}
+{"msg_id": 5, "label": "attendence", "text": "Professor I am so sorry for missing yesterday's session as I experienced some unexpected car trouble on my way to campus and could not make it"}
+{"msg_id": 6, "label": "attendence", "text": "Hello I wanted to inform you ahead of time that I will be missing class on the 24th to observe a religious holiday with my family"}
+{"msg_id": 7, "label": "grade_dispute", "text": "Dear Professor I am writing because I noticed a discrepancy between the feedback on my essay and the final grade posted in the gradebook"}
+{"msg_id": 8, "label": "grade_dispute", "text": "Hello I would like to schedule a time to discuss my recent exam results because I believe there may have been an error in how question four was scored"}
+{"msg_id": 9, "label": "grade_dispute", "text": "Hi I am confused about the points deducted from my last lab report and was hoping you could clarify the specific grading criteria used for the conclusion"}
+{"msg_id": 10, "label": "grade_dispute", "text": "Professor after reviewing the rubric I feel that my participation grade does not accurately reflect my contributions to the weekly discussion boards"}
+{"msg_id": 11, "label": "grade_dispute", "text": "Dear Instructor I am reaching out to see if there is any possibility for a regrade on my project as I believe I met all the requirements listed in the prompt"}
+{"msg_id": 12, "label": "grade_dispute", "text": "Hello I noticed that my grade for the midterm is much lower than expected and I would appreciate the chance to review my mistakes during office hours"}
+{"msg_id": 13, "label": "academic_integrity", "text": "Dear Professor I am writing to self report that I accidentally included a paragraph in my paper without proper citation and I want to fix it immediately"}
+{"msg_id": 14, "label": "academic_integrity", "text": "Hello I received an email regarding a potential plagiarism concern on my assignment and I would like to meet to explain my research process"}
+{"msg_id": 15, "label": "academic_integrity", "text": "Hi I am concerned that a classmate may have copied my code during the lab session today and I wanted to bring this to your attention privately"}
+{"msg_id": 16, "label": "academic_integrity", "text": "Professor I am reaching out to clarify the collaboration policy for the upcoming take home exam to ensure I do not violate any course rules"}
+{"msg_id": 17, "label": "academic_integrity", "text": "Dear Instructor I wanted to clarify that the similarities in our group project were due to shared notes and not an attempt to circumvent the integrity policy"}
+{"msg_id": 18, "label": "academic_integrity", "text": "Hello I am very nervous about the notification I received regarding the Proctorio flag on my exam and I would like to explain what happened"}
+{"msg_id": 19, "label": "accommodation_request", "text": "Hello Professor I am an authorized student with the disability services office and I have attached my official letter regarding extended testing time"}
+{"msg_id": 20, "label": "accommodation_request", "text": "Dear Instructor I am writing to request a quiet testing environment for our upcoming midterm as specified in my formal accommodation plan"}
+{"msg_id": 21, "label": "accommodation_request", "text": "Hi I would like to discuss how we can best implement my need for closed captioning on the video lectures assigned for this module"}
+{"msg_id": 22, "label": "accommodation_request", "text": "Professor I am reaching out to notify you that I require the use of a laptop for note taking during class as part of my approved academic adjustments"}
+{"msg_id": 23, "label": "accommodation_request", "text": "Good morning I have been approved for flexible deadlines due to a chronic health condition and I wanted to discuss how this applies to our weekly quizzes"}
+{"msg_id": 24, "label": "accommodation_request", "text": "Hello I am sending over my accommodation forms which indicate that I require copies of lecture slides in advance of our class meetings"}
+{"msg_id": 25, "label": "advising/enrollment", "text": "Dear Advisor I am trying to enroll in your course but I am receiving a prerequisite error even though I completed the equivalent credit last summer"}
+{"msg_id": 26, "label": "advising/enrollment", "text": "Hello Professor I am interested in joining your research lab next semester and was wondering if you have any openings for undergraduate students"}
+{"msg_id": 27, "label": "advising/enrollment", "text": "Hi I am currently on the waitlist for your section and was wondering if there is any chance you will be expanding the enrollment capacity"}
+{"msg_id": 28, "label": "advising/enrollment", "text": "Professor would you be able to sign a late add form for me so that I can officially join the class before the registration deadline tomorrow"}
+{"msg_id": 29, "label": "advising/enrollment", "text": "Hello I am a senior needing this specific course to graduate this spring and I was hoping you could grant me an override into the full section"}
+{"msg_id": 30, "label": "advising/enrollment", "text": "Dear Instructor I am writing to ask if you would be willing to serve as my faculty mentor for my independent study project next academic year"}
+{"msg_id": 31, "label": "deadline_extension", "text": "Professor I have been struggling with a severe bout of the flu this week and was hoping for a two day extension on the final project"}
+{"msg_id": 32, "label": "deadline_extension", "text": "Hello I am writing to ask if it would be possible to submit my reflection paper on Monday instead of Friday due to an overlapping work schedule"}
+{"msg_id": 33, "label": "deadline_extension", "text": "Dear Instructor our group has encountered some data collection issues and we were wondering if we could have a 48 hour extension to finish the report"}
+{"msg_id": 34, "label": "deadline_extension", "text": "Hi I am reaching out to see if I can have an extra day for the homework assignment as I am currently dealing with some difficult personal circumstances"}
+{"msg_id": 35, "label": "deadline_extension", "text": "Professor I have three other exams scheduled for the same day as our paper deadline and I was hoping for a short extension to ensure quality work"}
+{"msg_id": 36, "label": "deadline_extension", "text": "Hello I apologize for the short notice but I have had a death in the family and would appreciate some extra time to complete this weeks coursework"}
+{"msg_id": 37, "label": "technical/LMS_issue", "text": "Professor I tried to upload my assignment five minutes ago but the submission link on Canvas seems to be broken or expired"}
+{"msg_id": 38, "label": "technical/LMS_issue", "text": "Hello I am having trouble accessing the required reading link on the course website and was wondering if there is an alternate way to view the pdf"}
+{"msg_id": 39, "label": "technical/LMS_issue", "text": "Hi I just finished the online quiz but my computer crashed before I could hit submit and now I am locked out of the attempt"}
+{"msg_id": 40, "label": "technical/LMS_issue", "text": "Dear Instructor I am unable to view the feedback comments you left on my essay and I was hoping you could resend them as a direct attachment"}
+{"msg_id": 41, "label": "technical/LMS_issue", "text": "Hello I am reaching out because the video lecture for week five does not have any audio and I wanted to make sure it was not just a problem on my end"}
+{"msg_id": 42, "label": "technical/LMS_issue", "text": "Professor I mistakenly uploaded the wrong file version to the portal and it will not let me resubmit so I have attached the correct document here"}
