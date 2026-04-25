@@ -79,4 +79,50 @@ The end of the notebook contains model results including precision, recall, f1 a
 There is also analysis of the model's incorrect predictions.
 
 
+## PART II
 
+### 1 Sequence Labeling
+
+The python script *5_sequence_labeling* loads the unnormalized corpus and uses the spacy library to tag
+each word with a part of speech. It also performs named entity recognition on each token. These entities
+are passed to a few regular expression patterns to check if they matched any of the classes in the instructions.
+My regular expression patterns from part 1 were augmented with reccomendations from an llm. 
+
+The script prints a frequency table of the parts of speech in the corpus, as well as the first 15 examples
+of named entities found by spacy. Below is a sample output
+
+Number of NOUNs: 30509
+Number of NUMs: 2606
+Number of SPACEs: 25117
+Number of PROPNs: 13890
+Number of VERBs: 13071
+Number of SYMs: 425
+Number of ADVs: 2206
+Number of ADPs: 13187
+Number of DETs: 9957
+Number of PUNCTs: 15956
+Number of PRONs: 3939
+Number of CCONJs: 6787
+Number of ADJs: 7968
+Number of SCONJs: 1350
+Number of AUXs: 5634
+Number of PARTs: 3001
+Number of Xs: 454
+Number of INTJs: 109
+
+    Label       Class                                               Text
+0     391        date                                          2025-2026
+1     383      office         the Office of the Provost, Student Affairs
+2     391        date                                  Between 2018-2019
+3     383      office  Conduct, Office of Civil Rights & Title IX Pol...
+4     383      office                  The Office of Community Standards
+5     383      office                         the Events Planning Office
+6     383      office                           Norris University Center
+7     383      office  the Office of Global Marketing and Communications
+8     383      office                                  the Jacobs Center
+9     383      office                                      Norris Center
+10    383      office                         the Office of Civil Rights
+11    383      office                        the Dean of Students Office
+12    383      office                  the Office of Community Standards
+13    383      office                             Office of Civil Rights
+14    383  department  the Pritzker School of Law and Feinberg School...
